@@ -1,5 +1,6 @@
 ## Aoba, c tá baum? 🤙
-Bem vindo, me chamo Victor Yohan sou mineiro, um tipo de nômade e estou por aqui codando.
+Bem vindo,
+me chamo Victor Yohan sou mineiro, um tipo de nômade e estou por aqui codando.
 
 ### Um espécime curioso 🐈
 - 🚀 Estudando Front-End.
