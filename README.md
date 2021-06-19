@@ -1,16 +1,17 @@
-### Hi there 👋
+### Aoba, c tá baum? 🤙
+Bem vindo, me chamo Victor Yohan sou mineiro, um tipo de nômade e estou por aqui codando.
 
-<!--
-**v4ndort/v4ndort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um espécime curioso 🐈
+- 🚀 Estudando Front-End.
+- 👨‍💻 Cursando Gestão da Tecnologia da Informação no Instituto Federal do Sudeste de Minas Gerais.
 
-Here are some ideas to get you started:
+## Saiba minhas skills 🐱‍👤
+- HTML
+- CSS
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entre em contato 👽
+- email: vyohan25@gmail.com
+- Linkedin: https://www.linkedin.com/in/v4ndort/ 
+
+--
