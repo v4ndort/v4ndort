@@ -1,4 +1,4 @@
-## Aoba, c tá baum? 🤙
+## Aoba, c tá baum?
 Bem vindo,
 me chamo Victor Yohan sou mineiro, um tipo de nômade e estou por aqui codando.
 
