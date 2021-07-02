@@ -8,7 +8,7 @@ My name is Victor Yohan I'm from the state of Minas Gerais, Brazil and I'm some 
   <div>
 
 ### A curious specimen 🐈
-- 🚀 Studing web Development.
+- 🚀 Studing Web Development.
 - 🎓 Currently attending Information Technology Management on Instituto Federal do Sudeste de Minas Gerais
 
 ### Get to know my skills 🐱‍👤
