@@ -1,4 +1,7 @@
 ## Hi everyone! 👋
+
+<img src="https://imgur.com/sNdce9r" alt="My cool logo"/>
+
    ![Meet the developer](https://i.imgur.com/Te4S2Kc.mp4)
 
 Welcome,
