@@ -1,15 +1,22 @@
-## Aoba, c tá baum?
-Bem vindo,
-me chamo Victor Yohan sou mineiro, um tipo de nômade e estou por aqui codando.
+## Hi everyone 👋
+Wellcome,
+My name is Victor Yohan I'm from the state of Minas Gerais, Brazil 🇧🇷 and  I'm some sort of nomad 
 
-### Um espécime curioso 🐈
-- 🚀 Estudando Front-End.
-- 👨‍💻 Cursando Gestão da Tecnologia da Informação no Instituto Federal do Sudeste de Minas Gerais.
+### A curious specimen 🐈
+- 🚀 Studing web Development.
+- 👨‍💻 Currently attending Information Technology Management on Instituto Federal do Sudeste de Minas Gerais.
 
-### Saiba minhas skills 🐱‍👤
+### Get to know my skills 🐱‍👤
+  
+  <div>
+    <a href="https://github.com/v4ndort">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v4ndort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <div>
+
 - HTML
 - CSS
 - Javascript
+
 
 ### Entre em contato 👽
 - email: vyohan25@gmail.com
