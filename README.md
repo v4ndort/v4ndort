@@ -17,7 +17,5 @@ My name is Victor Yohan I'm from the state of Minas Gerais, Brazil and I'm some 
 
     
 ### Get in contact 👽
-- email: vyohan25@gmail.com
-- Linkedin: https://www.linkedin.com/in/v4ndort/ 
- <hr>
-
+[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Yohan-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/v4ndort/)](https://www.linkedin.com/in/v4ndort/) 
+[![Gmail Badge](https://img.shields.io/badge/-vyohan25@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vyohan25@gmail.com)](vyohan25@gmail.com)
