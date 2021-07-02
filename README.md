@@ -1,10 +1,10 @@
 ## Hi everyone 👋
 Wellcome,
-My name is Victor Yohan I'm from the state of Minas Gerais, Brazil 🇧🇷 and  I'm some sort of nomad 
+My name is Victor Yohan I'm from the state of Minas Gerais, Brazil and I'm some sort of nomad 
 
 ### A curious specimen 🐈
 - 🚀 Studing web Development.
-- 👨‍💻 Currently attending Information Technology Management on Instituto Federal do Sudeste de Minas Gerais.
+- 🎓 Currently attending Information Technology Management on Instituto Federal do Sudeste de Minas Gerais
 
 ### Get to know my skills 🐱‍👤
   
@@ -17,9 +17,7 @@ My name is Victor Yohan I'm from the state of Minas Gerais, Brazil 🇧🇷 and 
 - CSS
 - Javascript
 
-
-### Entre em contato 👽
+### Get in contact 👽
 - email: vyohan25@gmail.com
 - Linkedin: https://www.linkedin.com/in/v4ndort/ 
 
---
