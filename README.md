@@ -1,5 +1,5 @@
 ## Hi everyone! 👋
-Wellcome,
+Welcome,
 My name is Victor Yohan I'm from the state of Minas Gerais, Brazil and I'm some sort of nomad 
 
   <div>
