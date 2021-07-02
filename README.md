@@ -1,5 +1,5 @@
 ## Hi everyone! 👋
-   ![Meet the developer](https://imgur.com/sNdce9r)
+   ![Meet the developer](https://imgur.com/sNdce9r.gif)
 
 Welcome,
 My name is Victor Yohan I'm from the state of Minas Gerais, Brazil and I'm some sort of nomad 
