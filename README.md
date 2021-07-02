@@ -13,11 +13,11 @@ My name is Victor Yohan I'm from the state of Minas Gerais, Brazil and I'm some 
 
 ### Get to know my skills 🐱‍👤
     
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/angularjs-b72834?style=for-the-badge&logo=angularjs&logoColor=fff) ![image](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=333)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
     
 ### Get in contact 👽
 - email: vyohan25@gmail.com
 - Linkedin: https://www.linkedin.com/in/v4ndort/ 
-    <hr>
+ <hr>
 
