@@ -1,5 +1,6 @@
 <h1 align="center">Hello! I'm Victor Yohan 👩🏻‍💻</h1>
-   ![Meet the developer](https://imgur.com/sNdce9r.gif)
+<img align="center" src="https://imgur.com/sNdce9r.gif" alt="meet the developer">
+
 
 Welcome,
 My name is Victor Yohan I'm a Front End developer from Brazil.
