@@ -1,11 +1,11 @@
-## Hi everyone! 👋
+<h1 align="center">Hello! I'm Victor Yohan 👩🏻‍💻</h1>
    ![Meet the developer](https://imgur.com/sNdce9r.gif)
 
 Welcome,
-My name is Victor Yohan I'm from the state of Minas Gerais, Brazil and I'm some sort of nomad 
-
+My name is Victor Yohan I'm a Front End developer from Brazil.
 
 ### A curious specimen 🐈
+- 🌎 Fun fact I love geography, maps and data.
 - 🚀 Studing Web Development.
 - 🎓 Currently attending Information Technology Management at Instituto Federal do Sudeste de Minas Gerais
 
