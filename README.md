@@ -1,6 +1,4 @@
 <h1 align="left">Hello! I'm Victor Yohan 👨🏻‍💻</h1>
-<img align="center" src="https://imgur.com/sNdce9r.gif" alt="meet the developer">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v4ndort&label=Profile%20views&color=0e75b6&style=flat" alt="v4ndort" /> </p>
 
 ### A curious specimen 🐈
