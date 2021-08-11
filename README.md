@@ -3,7 +3,7 @@
 
 ### A curious specimen 🐈
 - 🌎 Fun fact I love geography, maps and data.
-- 🚀 Studing Web Development.
+- 🚀 Responsive Web Development.
 - 🎓 Currently attending Information Technology Management at Instituto Federal do Sudeste de Minas Gerais
 
 ### Get to know my skills 🐱‍👤
