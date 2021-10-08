@@ -32,7 +32,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v4ndort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div>
 
-### Get in contact 👽
+### Get in touch 👽
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Yohan-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/v4ndort/)](https://www.linkedin.com/in/v4ndort/) 
 [![Gmail Badge](https://img.shields.io/badge/-vyohan25@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vyohan25@gmail.com)](vyohan25@gmail.com)
     
